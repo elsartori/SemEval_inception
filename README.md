@@ -1,12 +1,12 @@
 # SemEval_inception
 
-##Server informations 
+## Server informations 
 docker
 java-server
 java
 mariadb
 
-##Original repository
+## Original repository
 https://github.com/inception-project/inception
 
 
